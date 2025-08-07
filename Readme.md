@@ -1,6 +1,6 @@
 # JC-Exploring-Arraylist
 
-**Your Name: General Malit**
+**Name: General Malit**
 
 ## Exploring Java `ArrayList`
 
